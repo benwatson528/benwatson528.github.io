@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Ben Watson, and I am an independent senior big data consultant, providing big data solutions to companies around the South East of England. I spend most of my time engineering with Java, Hadoop and the other major tools associated with it.
+Hi my name is Ben Watson. I'm an experienced modern data platform lead with extensive big data experience. I'm based in Newcastle-upon-Tyne and I provide data solutions to companies throughout the UK. I spend most of my time these days building Nando's modern data platform using GCP BigQuery and associated tools such as Dataform and Looker.
 
 In my spare time I enjoy gradually getting worse at basketball and the guitar.
 
